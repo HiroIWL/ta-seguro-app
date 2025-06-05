@@ -6,6 +6,11 @@ A aplicação **Tá Seguro** é uma plataforma mobile que oferece **informaçõe
 
 ---
 
+## 🔧 Como rodar o app
+```bash
+npm run start
+```
+
 ## 🧱 Estrutura do Projeto
 
 ### 📁 Backend (API Node.js + MongoDB)
